@@ -1,6 +1,7 @@
 # Evaluación de portafolio
 
-Realizado por cristian ahumada
+Realizado por cristian ahumada.
+
 Se puede ver desplegado [aquí](https://cristiandpto23.github.io/mod4-eval-portafolio/)
 
 ## E-commerce Básico
